@@ -1,0 +1,5 @@
+# Memes fins de ligne pour tout le binome, Windows, Linux et macOS
+* text=auto eol=lf
+*.png binary
+*.joblib binary
+*.parquet binary

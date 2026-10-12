@@ -1,0 +1,8 @@
+# Semaine 1 : socle commun. Les semaines suivantes completeront ce fichier.
+pandas==2.2.*
+scikit-learn==1.5.*
+pytest==8.3.*
+python-dotenv==1.0.*
+streamlit==1.39.*
+joblib==1.4.2
+pyarrow==17.0.0

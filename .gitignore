@@ -1,0 +1,17 @@
+# Environnement
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets : jamais dans Git
+.env
+
+# Artefacts lourds et reconstructibles
+models/*
+!models/.gitkeep
+mlruns/
+
+# Donnees : seul le petit echantillon du cours est versionne
+data/*
+!data/sample_reviews.csv
